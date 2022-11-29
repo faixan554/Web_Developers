@@ -1,0 +1,60 @@
+.navbar{
+    background-color: rgb(98, 98, 150);
+}
+.nav{
+    list-style: none;
+    margin: auto;
+}
+nav li{
+    margin: 20px;
+}
+
+.carosel{
+    height: 70vh;
+    width: 100%;
+}
+
+.inner1 img{
+    height: 30rem;
+    background-color: rgb(72, 72, 194);
+}
+
+.inner2{
+    margin-top: 8rem;
+}
+.inner2 h1{
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.para{
+    margin: 2rem;
+    color: grey;
+}
+.inner2 button{
+    background-color: rgb(54, 54, 196);
+    color: white;
+    padding: 1rem;
+    width: 9rem;
+    border-radius: 1rem;
+    margin-left: 4rem;
+    border: rgb(54, 54, 196);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+.card{
+    height: 5rem ;
+    width: 15rem;
+    background-color: rgb(64, 64, 117);
+    margin-left: 2rem;
+}
+.card button{
+    background-color: rgb(54, 54, 196);
+    color: white;
+    padding: 5px;
+    width: 9rem;
+    border-radius: 1rem;
+    border: 1px solid rgb(54, 54, 196);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
